@@ -5,8 +5,6 @@ import java.util.Random;
 import ir.maktab.card.Card;
 import ir.maktab.player.Player;
 
-
-
 public class Bingo {
 	private Player[] players;
 	/**
